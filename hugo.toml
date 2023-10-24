@@ -1,0 +1,4 @@
+baseURL = 'https://www.musiccrew.org/'
+languageCode = 'en-us'
+title = 'MUSIC CREW'
+theme = 'ananke'
